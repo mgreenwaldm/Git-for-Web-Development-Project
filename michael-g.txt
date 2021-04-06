@@ -68,7 +68,7 @@ https://codepen.io/mgreenwaldm/pen/LYbXyLZ?editors=1100
         ?
 
     24. What is a pseudo selector?
-        ?
+        selects multiple classes 
 
     25. What do we use the change the spacing between lines?
         ?
